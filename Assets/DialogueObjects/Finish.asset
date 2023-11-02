@@ -10,10 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dc92cc2f17423b2408e04324597c279e, type: 3}
-  m_Name: Done
+  m_Name: Finish
   m_EditorClassIdentifier: 
   dialogue:
-  - I'm done.
-  responses:
-  - responseText: Okay
-    dialogueObject: {fileID: 11400000, guid: 154ad8ff99a578f4ea5084f58c99010d, type: 2}
+  - Welcome!!!!
+  responses: []
